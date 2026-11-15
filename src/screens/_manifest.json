@@ -1,0 +1,30 @@
+{
+ "app": "Exercise App Concept",
+ "start": "all-excercise-option-1",
+ "screens": [
+  {
+   "slug": "all-excercise-option-1",
+   "name": "All excercise  option 1",
+   "page": "Page 1",
+   "w": 375,
+   "h": 812,
+   "elements": 252,
+   "links": 1
+  },
+  {
+   "slug": "medition",
+   "name": "Medition ",
+   "page": "Page 1",
+   "w": 375,
+   "h": 812,
+   "elements": 147,
+   "links": 2
+  }
+ ],
+ "warnings": [],
+ "fontPackages": [
+  "inter",
+  "montserrat",
+  "poppins"
+ ]
+}
